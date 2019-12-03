@@ -1,3 +1,4 @@
 *.pyc
 *.swap
 *.sqlite3
+requirements.txt
